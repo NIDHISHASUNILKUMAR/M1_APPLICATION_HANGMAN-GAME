@@ -1,1 +1,2 @@
-![HANGMAN](https://user-images.githubusercontent.com/94303567/143088102-c32538f2-ea85-4e57-8eda-8f94f208aba9.jpeg)
+
+![structuraldiagram](https://user-images.githubusercontent.com/94303567/143114096-2d32e49e-2eef-456c-a915-883b209cfbfe.jpg)
