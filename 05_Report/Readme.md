@@ -70,3 +70,8 @@ This game will enrich us by new words that are not aware of.
 *if user2 enters too many wrong letters then user2 has lost the game.
 
 *if user2 has entered all the right letters then user2 has won the game.
+
+## Structural design:
+
+![structuraldiagram](https://user-images.githubusercontent.com/94303567/143232866-a5e32012-0a62-4c12-852e-2e92dbe8f983.jpg)
+
