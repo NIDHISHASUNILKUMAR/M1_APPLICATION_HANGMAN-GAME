@@ -55,9 +55,18 @@ This game will enrich us by new words that are not aware of.
 * CPU: Intel Core i5-4400E.
 * OS: Windows 7.
  
-# Design:
+# Architecture:
 
-## Structural Design:
+## Behavioral Design:
 
 ![image](https://user-images.githubusercontent.com/94303567/143231905-fb7ea077-a8ab-44b4-89dc-190a99eb993e.png)
 
+*user1 chooses a word to guess.
+
+*user1 sets the number of wrong guesses.
+
+*user2 tries to guess the word by entering letters.
+
+*if user2 enters too many wrong letters then user2 has lost the game.
+
+*if user2 has entered all the right letters then user2 has won the game.
