@@ -55,3 +55,9 @@ This game will enrich us by new words that are not aware of.
 * CPU: Intel Core i5-4400E.
 * OS: Windows 7.
  
+# Design:
+
+## Structural Design:
+
+![image](https://user-images.githubusercontent.com/94303567/143231905-fb7ea077-a8ab-44b4-89dc-190a99eb993e.png)
+
